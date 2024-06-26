@@ -1,6 +1,8 @@
 # Thrive Workout
 
 #### Technologies used:
+https://qph.cf2.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
